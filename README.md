@@ -1,3 +1,6 @@
+//# Deep Learning with Python&Keras Full Course of Standford University
+//http://freecourses.resourcespoint.tech/?s=keras&fbclid=IwAR31EMKK7IFCYjLmmxok4DDgo8ipgBrCECuht-CsmQUjMY21ONKlxe21zaY
+
 # Roadmap to (technically) Dominate Artificial Intelligence
 
 In this document we link some of the material that we consider relevant to become knowlegable in the field of Artificial Intelligence. We suggest you do the homeworks and implement the ideas from the papers, as they would make sure you understand the ideas. A few notes:
